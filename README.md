@@ -10,3 +10,4 @@ Fonte Dev Aprender: https://www.youtube.com/watch?v=CQF6DQefT7g
 - Python
 
 ## 🖼️ Imagens
+![fala_python](https://github.com/VitorSouza01/Reproduzir_Texto_em_Audio/assets/104541182/4bbb6f94-cb7d-4ad3-a711-add16885236b)
